@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://bclub.fit/static/image/favicon.ico" width="80">
+</p>
+
 # Bclub
 
 Official documentation and resources for the Bclub website.
