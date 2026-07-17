@@ -12,12 +12,12 @@ https://bclub.fit
 </p>
 ## Resources
 
-- About
-- FAQ
-- Login Guide
-- Help Center
-- Security Guide
-- Reviews
-- Contact
+- [About](https://bclub.fit/about)
+- [FAQ](https://bclub.fit/faq)
+- [Login Guide](https://bclub.fit/login-guide)
+- [Help Center](https://bclub.fit/help)
+- [Security Guide](https://bclub.fit/security)
+- [Reviews](https://bclub.fit/reviews)
+- [Contact](https://bclub.fit/contact)
 
 Visit the official website for additional member resources.
