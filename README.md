@@ -2,7 +2,7 @@
 
 Welcome to the official Bclub GitHub profile.
 
-Official Website
+Bclub is the official website providing secure account access, login guidance, member resources and security information.
 
 https://bclub.fit
 <p align="center">
