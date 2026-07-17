@@ -1,17 +1,17 @@
 # Bclub
 
-Welcome to the official Bclub GitHub profile.
+Official documentation and resources for the Bclub website.
 
-Bclub is the official website providing secure account access, login guidance, member resources and security information.
+Bclub provides documentation, login guidance, security information, help resources, and general website information for visitors.
 
-https://bclub.fit
-<p align="center">
+## Documentation
 
-<img src="https://bclub.fit/static/image/favicon.ico" width="140">
+- 📘 Documentation
+- 🔒 Security
+- ❓ FAQ
+- 🤝 Contributing
 
-</p>
-
-# Resources
+## Resources
 
 - [About](https://bclub.fit/about)
 - [FAQ](https://bclub.fit/faq)
@@ -21,4 +21,10 @@ https://bclub.fit
 - [Reviews](https://bclub.fit/reviews)
 - [Contact](https://bclub.fit/contact)
 
-Visit the official website for additional member resources.
+## Official Website
+
+https://bclub.fit
+
+---
+
+This repository contains documentation and informational resources related to the website.
