@@ -10,7 +10,7 @@ https://bclub.fit
 <img src="https://bclub.fit/static/image/favicon.ico" width="140">
 
 </p>
-## Resources
+# Resources
 
 - [About](https://bclub.fit/about)
 - [FAQ](https://bclub.fit/faq)
