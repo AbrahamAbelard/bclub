@@ -38,3 +38,11 @@ Good documentation should be:
 ## Official Website
 
 https://bclub.fit
+
+---
+
+## Revision History
+
+| Date | Changes |
+|------|---------|
+| July 2026 | Documentation reviewed and updated. |
