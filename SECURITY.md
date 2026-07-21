@@ -26,3 +26,13 @@ If you discover a security issue related to the website, please contact the supp
 ## Official Website
 
 https://bclub.fit
+
+## Document Version
+
+Current Version
+
+1.0.0
+
+Last Updated
+
+July 2026
