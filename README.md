@@ -32,3 +32,14 @@ https://bclub.fit
 ---
 
 This repository contains documentation and informational resources related to the website.
+
+---
+
+## Changelog
+
+### July 2026
+
+- Improved project documentation.
+- Updated login guidance.
+- Expanded security recommendations.
+- Refreshed member support resources.
